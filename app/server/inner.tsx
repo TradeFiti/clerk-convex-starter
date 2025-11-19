@@ -18,14 +18,7 @@ export default function Home({
           <pre>{JSON.stringify(data, null, 2)}</pre>
         </code>
       </div>
-      <button
-        className="bg-foreground text-background px-4 py-2 rounded-md mx-auto"
-        onClick={() => {
-          void addNumber({ value: Math.floor(Math.random() * 10) });
-        }}
-      >
-        Add a random number
-      </button>
+     
     </>
   );
 }
