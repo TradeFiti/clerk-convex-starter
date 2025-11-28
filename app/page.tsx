@@ -135,8 +135,12 @@ export default function LandingPage() {
               </ul>
             </div>
             <div className="relative rounded-xl border bg-card p-2 shadow-2xl lg:p-4 rotate-1 hover:rotate-0 transition-transform duration-500">
-              <div className="rounded-lg bg-muted/50 aspect-video flex items-center justify-center">
-                <span className="text-muted-foreground">Dashboard Preview</span>
+              <div className="rounded-lg bg-muted/50 aspect-video flex items-center justify-center overflow-hidden">
+                <img
+                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop"
+                  alt="Dashboard Preview"
+                  className="object-cover w-full h-full"
+                />
               </div>
             </div>
           </div>
@@ -146,8 +150,12 @@ export default function LandingPage() {
         <section className="container mx-auto px-4 py-16 md:py-24 bg-primary/5 rounded-3xl my-8">
           <div className="grid grid-cols-1 gap-12 lg:grid-cols-2 items-center lg:flex-row-reverse">
             <div className="order-last lg:order-first relative rounded-xl border bg-card p-2 shadow-2xl lg:p-4 -rotate-1 hover:rotate-0 transition-transform duration-500">
-              <div className="rounded-lg bg-muted/50 aspect-video flex items-center justify-center">
-                <span className="text-muted-foreground">Global Map Preview</span>
+              <div className="rounded-lg bg-muted/50 aspect-video flex items-center justify-center overflow-hidden">
+                <img
+                  src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop"
+                  alt="Global Map Preview"
+                  className="object-cover w-full h-full"
+                />
               </div>
             </div>
             <div className="space-y-6">
