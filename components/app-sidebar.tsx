@@ -49,86 +49,86 @@ const data = {
   navMain: [
     {
       title: "Playground",
-      url: "#",
+      url: "/not-found",
       icon: SquareTerminal,
       isActive: true,
       items: [
         {
           title: "History",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Starred",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/not-found",
         },
       ],
     },
     {
       title: "Models",
-      url: "#",
+      url: "/not-found",
       icon: Bot,
       items: [
         {
           title: "Genesis",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Explorer",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Quantum",
-          url: "#",
+          url: "/not-found",
         },
       ],
     },
     {
       title: "Documentation",
-      url: "#",
+      url: "/not-found",
       icon: BookOpen,
       items: [
         {
           title: "Introduction",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Get Started",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Tutorials",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Changelog",
-          url: "#",
+          url: "/not-found",
         },
       ],
     },
     {
       title: "Settings",
-      url: "#",
+      url: "/not-found",
       icon: Settings2,
       items: [
         {
           title: "General",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Team",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Billing",
-          url: "#",
+          url: "/not-found",
         },
         {
           title: "Limits",
-          url: "#",
+          url: "/not-found",
         },
       ],
     },
@@ -136,17 +136,17 @@ const data = {
   projects: [
     {
       name: "Design Engineering",
-      url: "#",
+      url: "/not-found",
       icon: Frame,
     },
     {
       name: "Sales & Marketing",
-      url: "#",
+      url: "/not-found",
       icon: PieChart,
     },
     {
       name: "Travel",
-      url: "#",
+      url: "/not-found",
       icon: Map,
     },
   ],
